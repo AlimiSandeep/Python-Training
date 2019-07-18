@@ -1,2 +1,2 @@
-*.xml
+**/DemoPrograms/.idea/
 **/DemoPrograms/venv/
